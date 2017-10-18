@@ -1,1 +1,2 @@
-%{"brotli": {:hex, :brotli, "0.1.4", "ae297fa5f67e29fbc5f52d655ecf6bde997aecfd9be2dc14bbaac2b9af5b9852", [], [], "hexpm"}}
+%{"brotli": {:hex, :brotli, "0.1.4", "ae297fa5f67e29fbc5f52d655ecf6bde997aecfd9be2dc14bbaac2b9af5b9852", [], [], "hexpm"},
+  "zstd": {:hex, :zstd, "0.1.0", "158fe965df174a79daca07f9afb6859664a3efe9c67e940f139252614cb3631a", [], [], "hexpm"}}
